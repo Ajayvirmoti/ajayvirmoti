@@ -1,5 +1,5 @@
-![logo](https://github.com/Ajayvirmoti/ajayvirmoti/blob/main/banner.png)
-<h1 align="center">Ajay Virmoti</h1>
+<p align="center"><a href="https://ajayvirmoti.github.io"><img width="80%" alt="Hello, I'm Anurag. I do open source!" src="banner2.png" /></a></p>
+
 <h3 align="center">India</h3>
 
 - 🔭 I’m currently working on [Project-Charitable](https://github.com/Ajayvirmoti/Project-Charitable-1.0.0)
