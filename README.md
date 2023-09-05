@@ -2,7 +2,7 @@
 
 <h3 align="center">India</h3>
 
-- 🔭 I’m currently working on [Project-Charitable](https://github.com/Ajayvirmoti/Project-Charitable-1.0.0)
+- 🔭 I’m currently working on [Project-Charitable](https://ajayvirmoti.github.io/Project-Charitable-1.0.0/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
