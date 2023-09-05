@@ -10,6 +10,4 @@
 <a href="https://instagram.com/ajayvirmoti" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="ajayvirmoti" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/ajayvirmoti" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="ajayvirmoti" height="30" width="40" /></a>
 </p>
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ajayvirmoti&?theme=blue-green&show_icons=true&locale=en&layout=compact,css&title_color=FF0033&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" alt="ajayvirmoti" /></p>
-
 <p><img src="https://github-readme-stats.vercel.app/api?username=ajayvirmoti&theme=blue-green&show_icons=true" </p>
