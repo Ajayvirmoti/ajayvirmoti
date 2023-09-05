@@ -1,4 +1,4 @@
-<p align="center"><a href="https://ajayvirmoti.github.io"><img width="80%" alt="Hello, I'm Anurag. I do open source!" src="banner2.png" /></a></p>
+<p align="center"><a href="https://ajayvirmoti.github.io"><img width="80%" alt="Hello, I'm Ajay!" src="banner2.png" /></a></p>
 
 <h3 align="center">India</h3>
 
