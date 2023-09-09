@@ -10,5 +10,8 @@
 <a href="https://instagram.com/ajayvirmoti" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="ajayvirmoti" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/ajayvirmoti" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="ajayvirmoti" height="30" width="40" /></a>
 </p>
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Ajayvirmoti&theme=dark&background=000000)](https://git.io/streak-stats)
-<p><img src="https://github-readme-stats.vercel.app/api?username=ajayvirmoti&theme=blue-green&show_icons=true" </p>
+
+<p>
+  <img src="http://github-readme-streak-stats.herokuapp.com?user=ajayvirmoti&theme=dark&background=000000"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=ajayvirmoti&theme=blue-green&show_icons=true"/> 
+</p>
