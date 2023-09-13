@@ -29,8 +29,8 @@
 
 <br>
 
-
-<p>
-  <img src="http://github-readme-streak-stats.herokuapp.com?user=ajayvirmoti&theme=dark&background=000000" width = "40%"/>
-  <img src="https://github-readme-stats.vercel.app/api?username=ajayvirmoti&theme=blue-green&show_icons=true" width = "40%"/> 
-</p>
+<div align="center">
+    <img src="https://github-readme-stats.vercel.app/api?username=ajayvirmoti&theme=blue-green&show_icons=true" width = "37.5%" />
+    &nbsp&nbsp&nbsp&nbsp&nbsp&nbsp
+    <img src="http://github-readme-streak-stats.herokuapp.com?user=ajayvirmoti&theme=dark&background=000000" width = "40%"/>  
+</div>
