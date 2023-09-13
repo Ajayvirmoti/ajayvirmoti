@@ -4,6 +4,20 @@
 
 - 🔭 I’m currently working on [Project-Charitable](https://ajayvirmoti.github.io/Project-Charitable-1.0.0/)
 
+<br>
+
+
+### 📊 Github Stats
+<a href='https://github.com/rahul-jha98/github-stats-transparent'>
+  
+![Stats Overview](https://raw.githubusercontent.com/ajayvirmoti/github-stats-transparent/output/generated/overview.svg)
+![Most Used Languages](https://raw.githubusercontent.com/ajayvirmoti/github-stats-transparent/output/generated/languages.svg)
+
+</a>
+
+<br>
+
+
 <p>
   <img src="http://github-readme-streak-stats.herokuapp.com?user=ajayvirmoti&theme=dark&background=000000"/>
   <img src="https://github-readme-stats.vercel.app/api?username=ajayvirmoti&theme=blue-green&show_icons=true"/> 
