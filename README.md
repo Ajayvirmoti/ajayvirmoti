@@ -31,6 +31,6 @@
 
 
 <p>
-  <img src="http://github-readme-streak-stats.herokuapp.com?user=ajayvirmoti&theme=dark&background=000000"/>
+  <img src="http://github-readme-streak-stats.herokuapp.com?user=ajayvirmoti&theme=dark&background=000000" width = "49%"/>
   <img src="https://github-readme-stats.vercel.app/api?username=ajayvirmoti&theme=blue-green&show_icons=true"/> 
 </p>
