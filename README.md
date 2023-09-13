@@ -6,14 +6,26 @@
 
 <br>
 
+```javascript
+{
+    const ajay = {
+        code: ["Javascript", "Typescript", "HTML", "CSS", "Java"],
+        tools: ["React", "Redux", "Node", "Jest", "Firebase", "MongoDB"],
+        askMeAbout: ["WebDev", "Linux", "Flutter"],
 
-### 📊 Github Stats
-<a href='https://github.com/rahul-jha98/github-stats-transparent'>
-  
-![Stats Overview](https://raw.githubusercontent.com/ajayvirmoti/github-stats-transparent/output/generated/overview.svg)
-![Most Used Languages](https://raw.githubusercontent.com/ajayvirmoti/github-stats-transparent/output/generated/languages.svg)
+        LapConfig: {
+            os: " Linux",
+            wm: " hyprland",
+            shell:" zsh",
+        },
+        projects: ["charitable", "music-app"]
+    };
 
-</a>
+    console.log(ajay);
+}
+
+```
+
 
 <br>
 
