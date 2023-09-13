@@ -1,6 +1,10 @@
 
 
-<img src="https://media.giphy.com/media/5nn6EiITHwpoPPpBVx/giphy.gif" width ="100px" > <p align="center"><a href="https://ajayvirmoti.github.io"><img width="80%" alt="Hello, I'm Ajay!" src="banner2.png" /></a></p>
+<img src="https://media.giphy.com/media/5nn6EiITHwpoPPpBVx/giphy.gif" width ="100px" > 
+<p align="center">
+<a href="https://ajayvirmoti.github.io"><img width="80%" alt="Hello, I'm Ajay!" src="banner2.png" />
+</a>
+</p>
 
 <h3 align="center">India</h3>
 
