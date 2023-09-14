@@ -1,17 +1,12 @@
 
 
-<img src="https://media.giphy.com/media/5nn6EiITHwpoPPpBVx/giphy.gif" width ="100px" > 
-<p align="center">
-<a href="https://ajayvirmoti.github.io"><img width="80%" alt="Hello, I'm Ajay!" src="banner2.png" />
-</a>
-</p>
-
-<h3 align="center">India</h3>
-
-# <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcnVoaWtlY2xrMXJxd2V3Z2dqY3k1YnAzY3R6NTNjZzZrYjUyaGx1ZyZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/D13lH9S05Yn67y0vBi/giphy.gif" width="200"> 
-
-<br>
-
+# <img src="https://media.giphy.com/media/5nn6EiITHwpoPPpBVx/giphy.gif" width ="100px" > Hie! What's Up
+  [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/Ajayvirmoti)&nbsp;
+  [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://instagram.com/ajayvirmoti)&nbsp; 
+  [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ajay.singh1_cs20@gla.ac.in)&nbsp;
+  [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)](https://twitter.com/ajayvirmoti)&nbsp;
+  </br>
+<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcnVoaWtlY2xrMXJxd2V3Z2dqY3k1YnAzY3R6NTNjZzZrYjUyaGx1ZyZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/D13lH9S05Yn67y0vBi/giphy.gif" width="100"> 
 
 ```javascript
 {
