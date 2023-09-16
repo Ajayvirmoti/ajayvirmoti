@@ -2,7 +2,7 @@
 
 # <img src="https://media.giphy.com/media/5nn6EiITHwpoPPpBVx/giphy.gif" width ="100px" > Hie! What's Up
   </br>
-
+![Jokes Card](https://readme-jokes.vercel.app/api)
 
   
   ____<img src="https://media.giphy.com/media/s8sxoCrMsQP9C/giphy.gif" width = "50px">
