@@ -2,7 +2,7 @@
 
 # <img src="https://media.giphy.com/media/5nn6EiITHwpoPPpBVx/giphy.gif" width ="100px" > Hie! What's Up
   </br>
-![Jokes Card](https://readme-jokes.vercel.app/api)
+
 
   
   ____<img src="https://media.giphy.com/media/s8sxoCrMsQP9C/giphy.gif" width = "50px">
@@ -10,6 +10,7 @@
   [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://instagram.com/ajayvirmoti)&nbsp; 
   [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ajay.singh1_cs20@gla.ac.in)&nbsp;
   [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)](https://twitter.com/ajayvirmoti)&nbsp;
+  
 
 
 ```javascript
