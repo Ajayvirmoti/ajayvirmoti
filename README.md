@@ -1,6 +1,6 @@
 
 
-# <img src="https://media.giphy.com/media/5nn6EiITHwpoPPpBVx/giphy.gif" width ="100px" > Hie! What's Up
+# <img src="https://media4.giphy.com/media/oOylMv2oLDxcxGzYn6/giphy.gif?cid=790b76111jxy03k3p4os6zadmovcnct1r3xfmo7iqhfxui1g&ep=v1_stickers_search&rid=giphy.gif&ct=s" width ="100px" > Hie! What's Up
   </br>
 
 
@@ -17,15 +17,16 @@
 {
     const ajay = {
         code: ["Javascript", "Typescript", "HTML", "CSS", "Java"],
-        tools: ["React", "Redux", "Node", "Jest", "Firebase", "MongoDB"],
-        askMeAbout: ["WebDev", "Linux", "Flutter"],
+        tools: ["React", "Redux", "Node", "graphQl", "Firebase", "MongoDB"],
+        askMeAbout: ["WebDevelopment", "Linux", "Lord Krishna"],
 
         LapConfig: {
             os: " Linux",
+            dis: " Arch",    
             wm: " hyprland",
             shell:" zsh",
         },
-        projects: ["charitable", "music-app"]
+        projects: ["nex","profile","charitable", "music-app"]
     };
 
     console.log(ajay);
