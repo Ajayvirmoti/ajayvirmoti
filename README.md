@@ -19,7 +19,7 @@
     const ajay = {
         code: ["Javascript", "Typescript", "HTML", "CSS", "Java"],
         tools: ["React", "Redux", "Node", "graphQl", "Firebase", "MongoDB"],
-        askMeAbout: ["WebDevelopment", "Linux", "Lord Krishna"],
+        askMeAbout: ["WebDevelopment","Restful APIs" "Linux", "Lord Krishna"],
 
         LapConfig: {
             os: " Linux",
