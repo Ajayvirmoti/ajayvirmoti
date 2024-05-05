@@ -1,11 +1,12 @@
 
 
-# <img src="https://media4.giphy.com/media/oOylMv2oLDxcxGzYn6/giphy.gif?cid=790b76111jxy03k3p4os6zadmovcnct1r3xfmo7iqhfxui1g&ep=v1_stickers_search&rid=giphy.gif&ct=s" width ="100px" > Hie! What's Up
+<!-- <img src="https://media4.giphy.com/media/oOylMv2oLDxcxGzYn6/giphy.gif?cid=790b76111jxy03k3p4os6zadmovcnct1r3xfmo7iqhfxui1g&ep=v1_stickers_search&rid=giphy.gif&ct=s" width ="100px" > Hie! What's Up -->
+<h3>Hie! What's Up</h3>
   </br>
 
 
   
-  ____ <img src="https://media.giphy.com/media/s8sxoCrMsQP9C/giphy.gif" width = "50px"> 
+  <!--____ <img src="https://media.giphy.com/media/s8sxoCrMsQP9C/giphy.gif" width = "50px"> --> 
   [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/Ajayvirmoti)&nbsp;
   [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://instagram.com/ajayvirmoti)&nbsp; 
   [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ajay.singh1_cs20@gla.ac.in)&nbsp;
