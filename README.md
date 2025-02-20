@@ -16,9 +16,9 @@
 ```javascript
 {
     const ajay = {
-        code: ["Javascript", "Typescript", "HTML", "CSS", "Java"],
+        code: ["java", "rust", "golang", "javascript", "typescript", "Python", ],
         tools: ["React", "Redux", "Node", "graphQl", "Firebase", "MongoDB"],
-        askMeAbout: ["WebDevelopment","Restful APIs" "Linux", "Lord Krishna"],
+        askMeAbout: ["Spring boot", "msa", "WebDevelopment","Restful APIs" "Linux"],
 
         LapConfig: {
             os: " Linux",
@@ -28,8 +28,6 @@
         },
         projects: ["nex","profile","charitable", "music-app"]
     };
-
-    console.log(ajay);
 }
 
 ```
